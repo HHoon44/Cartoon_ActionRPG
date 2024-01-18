@@ -1496,3 +1496,31 @@ LogConfig: Set CVar [[r.Occlusion.SingleRHIThreadStall:1]]
 [2024.01.18-05.26.06:517][243]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
 [2024.01.18-05.26.06:517][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.01.18-05.26.07:463][302]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.01.18-05.26.37:450][229]LogViewport: Scene viewport resized to 2552x624, mode Windowed.
+[2024.01.18-05.26.37:504][231]LogViewport: Scene viewport resized to 2552x694, mode Windowed.
+[2024.01.18-05.26.37:539][233]LogViewport: Scene viewport resized to 2552x732, mode Windowed.
+[2024.01.18-05.26.37:573][235]LogViewport: Scene viewport resized to 2552x764, mode Windowed.
+[2024.01.18-05.26.37:616][237]LogViewport: Scene viewport resized to 2552x773, mode Windowed.
+[2024.01.18-05.26.37:653][240]LogViewport: Scene viewport resized to 2552x775, mode Windowed.
+[2024.01.18-05.26.37:690][242]LogViewport: Scene viewport resized to 2552x782, mode Windowed.
+[2024.01.18-05.31.45:532][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.01.18-05.31.54:650][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.01.18-05.31.54:654][394]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.18-05.31.54:811][394]LogSavePackage: Moving output files for package: /Game/0_UserGame/BluePrints/Monster/Monster_0/BP_Monster_0
+[2024.01.18-05.31.54:812][394]LogSavePackage: Moving 'D:/H_Hoon Source Tree/Cartoon_ActionRPG/Cartoon_ActionRPG/Saved/BP_Monster_01CE337A643DC9CF32B7BDFAC35B4D402.tmp' to 'D:/H_Hoon Source Tree/Cartoon_ActionRPG/Cartoon_ActionRPG/Content/0_UserGame/BluePrints/Monster/Monster_0/BP_Monster_0.uasset'
+[2024.01.18-05.31.54:822][394]LogFileHelpers: InternalPromptForCheckoutAndSave took 168 ms (total: 527 ms)
+[2024.01.18-05.31.54:830][394]AssetCheck: New page: 에셋 저장:  BP_Monster_0
+[2024.01.18-05.31.54:830][394]LogContentValidation: Display: /Script/Engine.Blueprint /Game/0_UserGame/BluePrints/Monster/Monster_0/BP_Monster_0.BP_Monster_0 유효성 검사 중
+[2024.01.18-05.32.04:511][144]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/0_UserGame/BluePrints/Monster/BP_Monster.BP_Monster
+[2024.01.18-05.32.04:511][144]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.18-05.32.06:397][248]LogViewport: Scene viewport resized to 2552x804, mode Windowed.
+[2024.01.18-05.32.07:541][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2024.01.18-05.32.09:480][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.01.18-05.32.19:515][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.18-05.44.10:939][954]LogAssetRegistry: Warning: [AssetLog] D:\H_Hoon Source Tree\Cartoon_ActionRPG\Cartoon_ActionRPG\Content\ParagonKhaimera\Characters\Maps\Lighting_Background.umap: Package has invalid export /Game/ParagonKhaimera/Characters/Maps/Lighting_Background_BuiltData.Lighting_Background_BuiltData, resave source package!
+[2024.01.18-05.44.10:942][954]LogAssetRegistry: Warning: [AssetLog] D:\H_Hoon Source Tree\Cartoon_ActionRPG\Cartoon_ActionRPG\Content\ParagonKhaimera\Characters\Maps\Lighting_Background.umap: Package has invalid export /Game/ParagonKhaimera/Characters/Maps/Lighting_Background_BuiltData.Lighting_Background_BuiltData, resave source package!
+[2024.01.18-05.44.17:887][973]LogDirectoryWatcher: Display: A directory notification failed for 'D:/H_Hoon Source Tree/Cartoon_ActionRPG/Cartoon_ActionRPG/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2024.01.18-05.44.17:887][973]LogDirectoryWatcher: Display: A directory notification failed for 'D:/H_Hoon Source Tree/Cartoon_ActionRPG/Cartoon_ActionRPG/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2024.01.18-05.44.17:887][973]LogDirectoryWatcher: Display: A directory notification failed for 'D:/H_Hoon Source Tree/Cartoon_ActionRPG/Cartoon_ActionRPG/Content/Developers/user/Collections/' because it could not be accessed. Aborting watch request...
+[2024.01.18-06.20.37:671][512]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:01.171 and deleted 0 files with total size 0 MiB. Scanned 65302 files in 57150 folders with total size 8265 MiB.
+[2024.01.18-07.20.38:539][315]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:02.038 and deleted 0 files with total size 0 MiB. Scanned 65302 files in 57150 folders with total size 8265 MiB.
