@@ -15843,3 +15843,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.21-10.57.07:089][509]LogFileHelpers: InternalPromptForCheckoutAndSave took 146 ms (total: 44.2 sec)
 [2024.01.21-10.57.07:098][509]AssetCheck: New page: 에셋 저장:  InGame
 [2024.01.21-10.57.07:098][509]LogContentValidation: Display: /Script/Engine.World /Game/0_UserGame/Maps/InGame.InGame 유효성 검사 중
+[2024.01.21-11.32.00:680][205]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:16.112 and deleted 0 files with total size 0 MiB. Scanned 73567 files in 63333 folders with total size 8710 MiB.
+[2024.01.21-12.32.00:706][  3]LogDerivedDataCache: C:/Users/user/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:02:16.138 and deleted 0 files with total size 0 MiB. Scanned 73567 files in 63333 folders with total size 8710 MiB.
